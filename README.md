@@ -7,3 +7,9 @@ This project is intended to be used in conjunction with the GateLinux website.
 GateLinux being a bootstrapped, build-time based Arch Linux distribution.
 
 For more information, visit the main website or start exploring in the `wiki/` directory.
+
+---
+
+## Contributing
+
+Interested in contributing? Please see [CONTRIB.md](CONTRIB.md) for guidelines.
